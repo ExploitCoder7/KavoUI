@@ -21,3 +21,10 @@ Synapse
 ]]
 
 ```
+
+## Creating Tabs
+```lua
+local Tab = Window:NewTab("TabName")
+```
+
+## Creating a Section
