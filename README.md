@@ -1,6 +1,6 @@
 # Kavo UI Library
 Works for mobile and has custom key system
-## Loadstring
+# Loadstring
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 ```
